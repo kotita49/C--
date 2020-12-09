@@ -1,0 +1,9 @@
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\bin\Debug\net472\Calculator.exe.config
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\bin\Debug\net472\Calculator.exe
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\bin\Debug\net472\Calculator.pdb
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.csprojAssemblyReference.cache
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.AssemblyInfoInputs.cache
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.AssemblyInfo.cs
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.exe
+C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.pdb
