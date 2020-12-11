@@ -7,3 +7,12 @@ C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator
 C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.exe
 C:\Users\Tatyana\RiderProjects\Calculator\Calculator\obj\Debug\net472\Calculator.pdb
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\obj\Debug\net472\Calculator.csprojAssemblyReference.cache
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\obj\Debug\net472\Calculator.AssemblyInfoInputs.cache
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\obj\Debug\net472\Calculator.AssemblyInfo.cs
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\obj\Debug\net472\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\obj\Debug\net472\Calculator.exe
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\obj\Debug\net472\Calculator.pdb
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\bin\Debug\net472\Calculator.exe.config
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\bin\Debug\net472\Calculator.exe
+C:\Users\Tatyana\Training\C--\Calculator\Calculator\bin\Debug\net472\Calculator.pdb

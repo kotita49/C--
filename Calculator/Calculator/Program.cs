@@ -10,35 +10,41 @@ namespace Calculator
             Console.WriteLine("Welcome to the calculator!");
             Console.Write("Please enter an operator");
             string op = Console.ReadLine();
-            Console.Write("Enter first number");
-            string first = Console.ReadLine();
-            int firstInt = int.Parse(first);
-            Console.WriteLine(firstInt);
-            Console.Write("Enter second number");
-            string second = Console.ReadLine();
-            int secondInt = int.Parse(second);
-            Console.WriteLine(secondInt);
-            int answer = 0;
-            if (op == "+")
+            Console.WriteLine("How many numbers do you want to " + op + " ?");
+            int amount = int.Parse(Console.ReadLine());
+            int[] numbers = new int[amount];
+            for (int i = 0; i < amount; i++)
             {
-                answer = firstInt + secondInt;
+                Console.WriteLine("Please enter " + (i+1) + " number");
+                numbers[i] = int.Parse(Console.ReadLine());
             }
-            else if (op == "-")
+
+            int result = numbers[0];
+            for (int i = 1; i < numbers.Length; i++)
             {
-                answer = firstInt - secondInt;
+                if (op == "+")
+                {
+                    result += numbers[i];
+                } else if(op == "-")
+                {
+                    result -= numbers[i];
+                }else if (op == "*")
+                {
+                    result *= numbers[i];
+                }else if (op == "/")
+                {
+                    result=result/numbers[i];
+                }
             }
-            else if (op == "*")
-            {
-                answer = firstInt * secondInt;
-            }
-            else if (op == "/")
-            {
-                answer = firstInt / secondInt;
-            }
-            Console.WriteLine("The answer is :" + answer);
+            Console.WriteLine(numbers[0]);
+            Console.WriteLine(numbers[1]);
+            Console.WriteLine(result);
         }
     }
+}
+
+
 
     
-        }
+        
     
