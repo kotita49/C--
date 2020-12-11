@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Tatyana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tatyana\\AppData\\Roaming\\NuGet\\NuGet.Config",

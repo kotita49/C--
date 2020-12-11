@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\Calculator.csproj",
+    "projectUniqueName": "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\Calculator.csproj",
     "projectName": "Calculator",
-    "projectPath": "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\Calculator.csproj",
-    "outputPath": "C:\\Users\\Tatyana\\RiderProjects\\Calculator\\Calculator\\obj\\",
+    "projectPath": "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\Calculator.csproj",
+    "outputPath": "C:\\Users\\Tatyana\\Training\\C--\\Calculator\\Calculator\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"
