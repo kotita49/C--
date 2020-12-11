@@ -19,7 +19,7 @@ namespace Calculator
                 numbers[i] = int.Parse(Console.ReadLine());
             }
 
-            int result = numbers[0];
+            double result = numbers[0];
             for (int i = 1; i < numbers.Length; i++)
             {
                 if (op == "+")
@@ -33,7 +33,7 @@ namespace Calculator
                     result *= numbers[i];
                 }else if (op == "/")
                 {
-                    result=result/numbers[i];
+                    result/=numbers[i];
                 }
             }
             Console.WriteLine(numbers[0]);
