@@ -24,11 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1bda44a7-1aa3-486a-8160-d5499a9eba47" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/bin/Debug/net472/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/net472/Calculator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/bin/Debug/net472/Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/net472/Calculator.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/net472/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/net472/Calculator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/net472/Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/net472/Calculator.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +87,7 @@
       <updated>1607382452335</updated>
       <workItem from="1607382458983" duration="3015000" />
       <workItem from="1607515059332" duration="597000" />
-      <workItem from="1607694164591" duration="5399000" />
+      <workItem from="1607694164591" duration="6342000" />
     </task>
     <servers />
   </component>
@@ -116,22 +111,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1607712104113">
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1607715360978">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1607712104113" />
-    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1607712104113">
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1607715360978" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1607715360977">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1607712104113" />
-    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1607712104113">
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1607715360977" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1607715360977">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1607712104113" />
-    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1607712104113">
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1607715360977" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1607715360977">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1607712104113" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1607715360977" />
     <state x="392" y="167" key="Rider.ProjectTemplateDialog.Size" timestamp="1607382452279">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
