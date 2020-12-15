@@ -23,7 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f831b6e0-a6ab-4437-9e51-db556b57b1b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Calculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Calculator.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Calculator.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net472/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net472/Calculator.exe" afterDir="false" />
@@ -97,7 +96,8 @@
       <workItem from="1607639518588" duration="635000" />
       <workItem from="1607686886554" duration="1795000" />
       <workItem from="1607689505557" duration="613000" />
-      <workItem from="1607946474359" duration="10672000" />
+      <workItem from="1607946474359" duration="11355000" />
+      <workItem from="1608028332102" duration="3229000" />
     </task>
     <servers />
   </component>
@@ -122,21 +122,25 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="242" key="GridCell.Tab.0.bottom" timestamp="1607982093197">
+    <state width="1557" height="259" key="GridCell.Tab.0.bottom" timestamp="1608031736606">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="242" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1607982093197" />
-    <state width="1557" height="242" key="GridCell.Tab.0.center" timestamp="1607982093197">
+    <state width="1557" height="259" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1608031736606" />
+    <state width="1557" height="259" key="GridCell.Tab.0.center" timestamp="1608031736606">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="242" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1607982093197" />
-    <state width="1557" height="242" key="GridCell.Tab.0.left" timestamp="1607982093197">
+    <state width="1557" height="259" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1608031736606" />
+    <state width="1557" height="259" key="GridCell.Tab.0.left" timestamp="1608031736606">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="242" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1607982093197" />
-    <state width="1557" height="242" key="GridCell.Tab.0.right" timestamp="1607982093197">
+    <state width="1557" height="259" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1608031736606" />
+    <state width="1557" height="259" key="GridCell.Tab.0.right" timestamp="1608031736606">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="242" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1607982093197" />
+    <state width="1557" height="259" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1608031736606" />
+    <state x="92" y="92" width="1416" height="686" key="VCS.FileHistoryDialog" timestamp="1608032265106">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="92" y="92" width="1416" height="686" key="VCS.FileHistoryDialog/0.0.1600.870@0.0.1600.870" timestamp="1608032265106" />
   </component>
 </project>
